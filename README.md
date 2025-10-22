@@ -13,7 +13,7 @@
 
 This interactive dashboard provides a comprehensive view of real estate listings and market activities across different locations. It visualizes key property metrics to help identify pricing trends, listing performance, and market movement.
 
-![SCREENSHOT1](https://github.com/user-attachments/assets/f1789af1-6760-4a68-ac36-eb81218a1cc0)
+![SCREENSHOT1](https://github.com/Analyticope/Real-Estate-Overview-Analysis/blob/main/Real%20Estate%20Dashboard.jpg)
 
 
 
