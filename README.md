@@ -25,7 +25,7 @@ Sourced from well-structured CSV files, The data helps real estate analysts, inv
 ### Tools
 
 - Excel
-  - [Download here](https://microsoft.com)
+  - [Download here](https://drive.google.com/file/d/1WNGEfRE0Tc2eUngehn1ryrY16XqDhGMN/view?usp=drive_link)
 - Power Query - data cleaning, automate repetitive task(like fiitering, merging, and formatting).
 - Building custom columns to perform specific calculations
 - Powerpoint and Excel - Developing insightful analytics reports
